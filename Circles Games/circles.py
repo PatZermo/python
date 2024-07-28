@@ -1,3 +1,5 @@
+#This is a very simple game programmed in Python using the pygame library.
+
 import pygame
 import sys
 import random
