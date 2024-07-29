@@ -8,4 +8,4 @@ using PyTorch and TensorFlow. I will be uploading those codes very soon.
 ```
 
 - [Circles Game 🟢🔵🔴](https://github.com/PatZermo/python/tree/main/Circles%20Games)
-- [Cipher and Decryptor 🔒🔓] (https://github.com/PatZermo/python/tree/main/Cipher-Decryptor).
+- [Cipher and Decryptor 🔒🔓](https://github.com/PatZermo/python/tree/main/Cipher-Decryptor).
