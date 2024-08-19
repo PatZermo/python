@@ -18,11 +18,11 @@ def menu():
 def convertirCaF():
     convertir = float(input("Ingresa grados celsius: "))
     resultado = convertir * 1.8 + 32
-    print(resultado)
+    print(f"{convertir} grados celsius son: {resultado} grados farenheit")
 
 def convertirFaC():
     convertir = float(input("Ingresa grados farenheit: "))
     resultado = (convertir - 32) * 0.55
-    print(resultado)
+    print(f"{convertir} grados farenheit son: {resultado} grados celsius")
 
 menu()
