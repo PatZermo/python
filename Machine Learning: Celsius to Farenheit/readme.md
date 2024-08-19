@@ -5,7 +5,7 @@ Traditional programming uses functions predefined by the programmer to achieve a
 
 Would it be possible for the machine to learn by itself how to arrive at that operation just by giving it the initial number and the result? Yes! For that, we will use Machine Learning.
 
-In the first example [Phyton](#🤖 Celsius to Farenheit with machine learning:) 
+In the first example [Phyton](#🤖-Celsius-to-Farenheit-with-machine-learning:) 
 
 ### 🤖 Celsius to Farenheit with machine learning:
 - [Celsius to Farenheit with machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/with-machine-learning.py))
