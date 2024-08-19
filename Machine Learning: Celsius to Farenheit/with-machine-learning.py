@@ -1,4 +1,4 @@
-#Using the NumPy libraries to create arrays and TensorFlow for neural networks (and some matplotlib to plot the training), 
+#Using the NumPy libraries to create arrays and TensorFlow and Keras for neural networks (and some matplotlib to plot the training), 
 #a machine learning algorithm is created. As can be seen in the code, at no point are the mathematical operations for converting 
 #Celsius to Fahrenheit provided; instead, the algorithm automatically learns them from an array of Celsius degrees and their 
 #corresponding Fahrenheit results.  At the end of the code, the user can input any temperature in Celsius, and the algorithm 
