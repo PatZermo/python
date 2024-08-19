@@ -1,6 +1,10 @@
 # Machine Learning with Python 🐍🤖
 ## Celsius to Farenheit with and without machine learning
 
+```
+The idea of this repository is to compare how the same task is carried out with and without using machine learning.
+```
+
 Traditional programming uses functions predefined by the programmer to achieve a result. In this case, the programmer has specified the mathematical operation to convert the Celsius degrees entered by the user into Fahrenheit and vice versa.
 
 Would it be possible for the machine to learn by itself how to arrive at that operation just by giving it the initial number and the result? Yes! For that, we will use Machine Learning.
