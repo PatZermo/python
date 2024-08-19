@@ -10,7 +10,7 @@ In the [first machine learning example](#Celsius-to-Farenheit-with-machine-learn
 In the [second traditional programming example](#Celsius-to-Farenheit-without-machine-learning-), the programmer has already preloaded the necessary mathematical operations to convert from Celsius to Fahrenheit and from Fahrenheit to Celsius. The user can input temperatures, and they will be converted using the preloaded functions.
 
 ### Celsius to Farenheit with machine learning 🤖:
-- [Celsius to Farenheit with machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/with-machine-learning.py))
+- [Celsius to Farenheit with machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/with-machine-learning.py)
 
 ### Celsius to Farenheit without machine learning 💻:
 - [Celsius to Farenheit without machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/without-machine-learning)
