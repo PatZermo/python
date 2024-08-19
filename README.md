@@ -8,7 +8,7 @@ using PyTorch and TensorFlow. I will be uploading those codes very soon.
 ```
 
 ### 🤖 Machine Learning:
-- [Celsius to Farenheit with and without machinelearning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/readme.md)
+- [Celsius to Farenheit with and without machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/readme.md)
 
 
 ### 💻 + Code:
