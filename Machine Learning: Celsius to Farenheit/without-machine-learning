@@ -1,3 +1,6 @@
+#Here, the programmer has already preloaded the necessary mathematical operations to convert from Celsius to Fahrenheit and from 
+#Fahrenheit to Celsius. The user can input temperatures, and they will be converted using the preloaded functions.
+
 def menu():
     while True:
         seleccion = input("Elegí la tarea: \n1. Celsius a Farenheit \n2. Farenheit a Celsius \n3. Salir ")
