@@ -17,4 +17,4 @@ In the [second traditional programming example](#Celsius-to-Farenheit-without-ma
 - [Celsius to Farenheit with machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/with-machine-learning.py)
 
 ### Celsius to Farenheit without machine learning 💻:
-- [Celsius to Farenheit without machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/without-machine-learning)
+- [Celsius to Farenheit without machine learning](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit/without-machine-learning.py)
