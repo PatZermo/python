@@ -10,7 +10,7 @@ I will be uploading those codes very soon.
 
 ### 🤖 Machine Learning:
 - [Celsius to Farenheit with and without machine learning (TensorFlow & Keras)](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit%20(TensorFlow%20%26%20Keras)/readme.md))
-- [Linear Regression (Scikit-Learn]
+- [Linear Regression (Scikit-Learn](https://github.com/PatZermo/python/blob/main/Machine%20Learning:%20Linear%20Regression%20(Scikit-Learn)/linearegression.py)
 
 ### 💻 + Code:
 - [Circles Game 🟢🔵🔴](https://github.com/PatZermo/python/tree/main/Circles%20Games)
