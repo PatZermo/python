@@ -1,3 +1,6 @@
+#Using the Scikit-Learn library, a diabetes dataset is used to train the model so that it can make predictions with user-input data using the linear regression algorithm. 
+#It can be observed that the linear regression model is not the best fit for this dataset, but it is used for demonstration purposes.
+
 import numpy as np
 from sklearn import datasets, linear_model
 import matplotlib.pyplot as plt
