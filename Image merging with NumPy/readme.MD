@@ -7,6 +7,7 @@ Matrices are used instead of tensors since both images are two-dimensional, with
 
 So, let's merge these two images:
 
-[Image 1](https://picsum.photos/800/600)[Image 2](https://picsum.photos/800/600)
+[Image 1](img1.png)
+[Image 2](img2.png)
 
 [Click here to see the code](https://github.com/PatZermo/python/blob/main/Image%20merging%20with%20NumPy/imagemerging.py)
