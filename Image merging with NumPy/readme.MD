@@ -8,4 +8,4 @@ Matrices are used instead of tensors since both images are two-dimensional, with
 So, let's merge these two images:
 
 
-[Click here to see the code](#Celsius-to-Farenheit-with-machine-learning-), using the libraries NumPy to create arrays and TensorFlow for neural networks (and some matplotlib to plot the training), a machine learning algorithm is created. As can be seen in the code, at no point are the mathematical operations for converting Celsius to Fahrenheit provided; instead, the algorith
+[Click here to see the code](#https://github.com/PatZermo/python/blob/main/Image%20merging%20with%20NumPy/imagemerging.py), using the libraries NumPy to create arrays and TensorFlow for neural networks (and some matplotlib to plot the training), a machine learning algorithm is created. As can be seen in the code, at no point are the mathematical operations for converting Celsius to Fahrenheit provided; instead, the algorith
