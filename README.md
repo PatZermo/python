@@ -1,7 +1,7 @@
 # Python 🐍
 
 ```
-I started getting involved with Python through my work developing and training generative
+I started getting involved with Python through my work as a researcher and developing and training generative
 artificial intelligences and large language models to produce high quality code based on various
 user requests. Currently, I am keep learning to create different machine learning and
 artificial intelligence programs using PyTorch, TensorFlow, Keras, among others libraries.
