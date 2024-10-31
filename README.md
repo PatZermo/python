@@ -13,5 +13,6 @@ I will be uploading those codes very soon.
 - [Linear Regression (Scikit-Learn)](https://github.com/PatZermo/python/blob/main/Machine%20Learning:%20Linear%20Regression%20(Scikit-Learn)/linearegression.py)
 
 ### 💻 + Code:
+- [Image merging with NumPy 🖼️](https://github.com/PatZermo/python/tree/main/Image%20merging%20with%20NumPy)
 - [Circles Game 🟢🔵🔴](https://github.com/PatZermo/python/tree/main/Circles%20Games)
 - [Cipher and Decryptor 🔒🔓](https://github.com/PatZermo/python/tree/main/Cipher-Decryptor).
