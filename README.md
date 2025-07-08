@@ -7,6 +7,8 @@ user requests. Currently, I am keep learning to create different machine learnin
 artificial intelligence programs using PyTorch, TensorFlow, Keras, among others libraries.
 I will be uploading those codes very soon.
 ```
+### 📑 LLMs - RAG:
+- [LLM with RAG (OpenAI & FAISS - FLASK for the backend)](https://github.com/PatZermo/python/tree/main/LLM%20with%20RAG%20-%20Backend%20FLASK)
 
 ### 🤖 Machine Learning:
 - [Celsius to Farenheit with and without machine learning (TensorFlow & Keras)](https://github.com/PatZermo/python/blob/main/Machine%20Learning%3A%20Celsius%20to%20Farenheit%20(TensorFlow%20%26%20Keras)/readme.md))
