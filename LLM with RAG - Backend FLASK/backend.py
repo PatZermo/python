@@ -1,4 +1,4 @@
-#Using OpenAI API, I build a RAG Chatbot that can search for answers in PDFs using a vector DB (FAISS). In faiss.py you can see how we build the DB.
+#Using OpenAI API, I build a RAG Chatbot that can search information in PDFs using a vector DB (FAISS). In faiss.py you can see how we build the DB.
 
 from flask import Flask, request, jsonify, session, redirect, url_for, render_template
 from flask_cors import CORS
